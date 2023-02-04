@@ -7,4 +7,4 @@ The problem with the windmill nowsaday is that their positions are fixed, windmi
 
 <a href="https://www.youtube.com/watch?v=gRyRpYIhrTo"><img src="thumbnail.png"></a>
 
-*Note: the windmill in this project is built with paper, and the origami doesn't look very well, the reason behind that is I want to deliver the idea more than just the apprearance.
+*Note: the windmill in this project is built with paper, and the origami doesn't look very well, the reason behind that is I want to deliver the idea more than just the apprearance.*
